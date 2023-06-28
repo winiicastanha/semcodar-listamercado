@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1866461210",
+    "project_id": "semcodar-tutorialff-wini",
+    "storage_bucket": "semcodar-tutorialff-wini.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1866461210:android:cfe2f45ced85b6365aa1a3",
+        "android_client_info": {
+          "package_name": "com.semcodar.tutorialffyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1866461210-9q6non2cb1ofmkrmqp71unq5hm3vag14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ4QRuGuPi2XSXsoM1nRdkAcnAGnK-3wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1866461210-9q6non2cb1ofmkrmqp71unq5hm3vag14.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1866461210-qlkfrt97kkfuljq4rujj78n7t9pueugu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.semcodar.tutorialffyt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
